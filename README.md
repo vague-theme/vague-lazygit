@@ -6,7 +6,7 @@
 
 ## Usage
 
-1. Replace or merge the existing `gui:` section in your config with the contents of [vague.yml](vague.yml).
+Replace or merge the existing `gui:` section in your config with the contents of [vague.yml](vague.yml).
 
 ## Thanks to contributors
 
